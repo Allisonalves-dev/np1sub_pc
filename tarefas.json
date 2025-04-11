@@ -2,26 +2,26 @@
     {
       "descricao": "Estudar Python",
       "status": "concluída",
-      "prazo": "2024-12-20"
+      "prazo": "20-12-2024"
     },
     {
       "descricao": "Fazer o projeto de Programação",
       "status": "em andamento",
-      "prazo": "2024-12-27"
+      "prazo": "27-12-2025"
     },
     {
       "descricao": "Estudando Sobra Java",
       "status": "pendente",
-      "prazo": "2025-01-05"
+      "prazo": "02-05-2025"
     },
     {
       "descricao": "Prova Subjetiva Engenharia de Software",
       "status": "concluída",
-      "prazo": "2024-12-15"
+      "prazo": "20-12-2024"
     },
      {
       "descricao": "Praticar Git e GitHub",
       "status": "em andamento",
-      "prazo": "2024-12-25"
+      "prazo": "16-05-2025"
     }
   ]
