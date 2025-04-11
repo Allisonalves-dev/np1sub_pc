@@ -1,0 +1,32 @@
+[
+    {
+        "descricao": "Estudar Python",
+        "status": "conclu\u00edda",
+        "prazo": "20-12-2024"
+    },
+    {
+        "descricao": "Fazer o projeto de Programa\u00e7\u00e3o",
+        "status": "em andamento",
+        "prazo": "27-12-2025"
+    },
+    {
+        "descricao": "Estudando Sobra Java",
+        "status": "pendente",
+        "prazo": "02-05-2025"
+    },
+    {
+        "descricao": "Prova Subjetiva Engenharia de Software",
+        "status": "conclu\u00edda",
+        "prazo": "20-12-2024"
+    },
+    {
+        "descricao": "Praticar Git e GitHub",
+        "status": "em andamento",
+        "prazo": "16-05-2025"
+    },
+    {
+        "descricao": "programa\u00e7\u00e3o sandro mesquita",
+        "status": "em andamento",
+        "prazo": "21-05-2025"
+    }
+]
