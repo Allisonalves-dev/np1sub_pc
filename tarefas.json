@@ -1,0 +1,27 @@
+[
+    {
+      "descricao": "Estudar Python",
+      "status": "concluída",
+      "prazo": "2024-12-20"
+    },
+    {
+      "descricao": "Fazer o projeto de Programação",
+      "status": "em andamento",
+      "prazo": "2024-12-27"
+    },
+    {
+      "descricao": "Ler o livro de Flask",
+      "status": "pendente",
+      "prazo": "2025-01-05"
+    },
+    {
+      "descricao": "Aprender sobre APIs REST",
+      "status": "concluída",
+      "prazo": "2024-12-15"
+    },
+     {
+      "descricao": "Praticar Git e GitHub",
+      "status": "em andamento",
+      "prazo": "2024-12-25"
+    }
+  ]
